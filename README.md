@@ -1,4 +1,4 @@
-# Apollo 2021
+# Apollo_example
 
 21.07.17 토\_Movie App built with React, Apollo and GraghQL
 
